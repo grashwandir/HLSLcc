@@ -27,3 +27,14 @@
 *.exe
 *.out
 *.app
+
+# Binaries
+**/bin/
+**/bin-int/
+
+# Visual Studio files and folder
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
